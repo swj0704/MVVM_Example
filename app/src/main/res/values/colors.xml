@@ -3,4 +3,12 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="calculatorBackground">#C9A07B</color>
+    <color name="buttonBackground">#202020</color>
+    <color name="cButtonBackground">#FF8B51</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="displaySectionBackground">#CECECE</color>
+    <color name="displaySectionTextColor">#000000</color>
+
 </resources>
