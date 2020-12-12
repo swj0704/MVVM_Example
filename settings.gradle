@@ -1,2 +1,4 @@
+include ':testlivedata'
+include ':testdatabinding'
 include ':app'
 rootProject.name = "MVVM_Example"
