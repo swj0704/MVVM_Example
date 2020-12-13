@@ -1,3 +1,4 @@
+include ':datebindingwithlivedata'
 include ':testlivedata'
 include ':testdatabinding'
 include ':app'
