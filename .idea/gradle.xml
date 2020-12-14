@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/datebindingwithlivedata" />
+            <option value="$PROJECT_DIR$/koinexample" />
             <option value="$PROJECT_DIR$/testdatabinding" />
             <option value="$PROJECT_DIR$/testlivedata" />
           </set>
