@@ -11,7 +11,7 @@ class MainActivity : BaseActivity<ActivityMainBinding, MainViewModel>() {
     override val viewModel = MainViewModel()
 
     override fun initStartView() {
-
+        binding.textView.text = "hello MVVM!"
     }
 
     override fun initDataBinding() {
